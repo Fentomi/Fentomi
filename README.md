@@ -1,16 +1,19 @@
 ### Hi there 👋
+I'm Nikita a 21 yo programmer (still in step of beginner).
 
-<!--
-**Fentomi/Fentomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I use the following technologies:
+- Python
+- Web-stack (HTML, CSS)
+- Databases (SQL, Oracle)
+- What are you waiting for
 
-Here are some ideas to get you started:
+Also i familiar with:
+- PHP
+- thats all folks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 
+Я ожидаю:
+1) чуть-чуть о себе, самое основное
+2) технологический стек
+3) изучаемый стек
+--!>
