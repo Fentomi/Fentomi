@@ -1,19 +1,9 @@
-### Hi there 👋
-I'm Nikita a 21 yo programmer (still in step of beginner).
-
-I use the following technologies:
-- Python
-- Web-stack (HTML, CSS)
-- Databases (SQL, Oracle)
-- What are you waiting for
-
-Also i familiar with:
-- PHP
-- thats all folks
-
-<!-- 
-Я ожидаю:
-1) чуть-чуть о себе, самое основное
-2) технологический стек
-3) изучаемый стек
---!>
+# Hello there! A little bit about me..
+My name is **Nikita** and I'm a **21 year old beginner programmer** and **student**. For a long time I didn't keep my github account because I was embarrassed to upload my developments here. I will definitely overcome this threshold.
+## I have studied technologies such as
+- *Python*
+- *C# (+Unity)*
+- *HTML/CSS*
+- *Databases (SQL, Oracle)*
+## I'm studying at the moment
+I'm learning python frameworks, then I want to learn JavaScript.
