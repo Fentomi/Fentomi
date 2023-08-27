@@ -7,3 +7,4 @@ My name is **Nikita** and I'm a **21 year old beginner programmer** and **studen
 - *Databases (SQL, Oracle)*
 ## I'm studying at the moment
 I'm learning python frameworks, then I want to learn JavaScript.
+## :envelope: If you want to contact me
