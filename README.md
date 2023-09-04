@@ -3,7 +3,7 @@ My name is **Nikita** and I'm a **21 year old beginner programmer** :computer: a
 ## :closed_book: I have studied technologies such as
 - *Python*
 - *C# (+Unity)*
-- *HTML/CSS*
+- *HTML/CSS/JS*
 - *Databases (SQL, Oracle)*
 ## :memo: I'm studying at the moment
 I'm learning python frameworks, then I want to learn JavaScript.
