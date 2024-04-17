@@ -1,5 +1,5 @@
 # Hello there! :wave: A little bit about me.. :cat2:
-My name is **Nikita** and I'm a **21 year old beginner programmer** :computer: and **student** :mortar_board: .
+My name is **Nikita** and I'm a **22 year old beginner programmer** :computer: and **student** :mortar_board: .
 ## :closed_book: I have studied technologies such as
 - *Python*
 - *C# (+Unity)*
