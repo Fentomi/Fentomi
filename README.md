@@ -4,8 +4,8 @@ My name is **Nikita** and I'm a **22 year old beginner programmer** :computer: a
 - *Python*
 - *C# (+Unity)*
 - *HTML/CSS*
-- *JavaScript*
-- *Databases (SQL, Oracle)*
+- *JavaScript, a little TypeScript (Vue)*
+- *Databases*
 ## :memo: I'm studying at the moment
 ## :envelope: If you want to contact me
 - [Discord](https://discordapp.com/users/395262122491379714/)
